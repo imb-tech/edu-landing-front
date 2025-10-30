@@ -1,7 +1,7 @@
 import { Card, CardContent } from "./ui/card";
 import { Badge } from "./ui/badge";
 import { Button } from "./ui/button";
-import { Clock, Users, Star, BookOpen } from "lucide-react";
+import { Clock, BookOpen } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 export default function Courses() {

@@ -1,5 +1,5 @@
 import { Card, CardContent } from './ui/card';
-import { Award, BookOpen } from 'lucide-react';
+import { Award } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 
 export default function Teachers() {
